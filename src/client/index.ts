@@ -18,7 +18,7 @@ export {
   RetrieveResult,
   ScopedPostRetrieve,
   ScopedPreRetrieve,
-} from './metadataApiRetrieve';
+} from './mockRetrieve';
 export {
   ComponentDeployment,
   ComponentRetrieval,
